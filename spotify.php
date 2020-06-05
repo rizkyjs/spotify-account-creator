@@ -174,7 +174,7 @@ getfol($output2, $email, $password, $file);
 
 echo "=========================\n";
 echo "Spotify account creator + auto veriv\n";
-echo "Created by Ikballnh\n";
+echo "Created by Ikbal Nur Hakim\n";
 echo "=========================\n";
 
 echo "Masukan password (Min. 8 character) : ";
